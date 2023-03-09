@@ -1,0 +1,7 @@
+###
+POST http://localhost:5000/kelas
+Content-Type: application/json
+{
+    "kelas": "12",
+    "jurusan": "RPL"
+}
